@@ -17,7 +17,7 @@ provides to employee and candidate.
 Candidate can save time to searching new jobs, it just provide information about
 vacancy online.
 
-##Core component
+### Core component
 
 i. Admin Core Components.
 - Manage employee detail
