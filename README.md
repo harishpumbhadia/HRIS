@@ -18,6 +18,7 @@ Candidate can save time to searching new jobs, it just provide information about
 vacancy online.
 
 ##Core component
+
 i. Admin Core Components.
 - Manage employee detail
 - Manage Leave Request
@@ -25,9 +26,11 @@ i. Admin Core Components.
 - Manage Task
 - Manage Project
 - Manage Client
+
 ii. Employee Core Components.
 - Manage Leave
 - Mark Attendance
+
 iii. Candidate/user Core Components.
 - Search Job
 - Apply Job
